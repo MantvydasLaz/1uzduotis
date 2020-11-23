@@ -6,7 +6,7 @@ Fullname: Mantvydas Lazauskas, IS18A.
 Document Structure Tree: Katalogų struktūra:
 
 
-+-- BubbleSortAlgorithm (Šiame kataloge rasite pirmosios užduoties paveikslėlį)
++-- 1_Java_Lazauskas.jpg  (Čia rasite pirmosios užduoties paveikslėlį)
 
 
 +-- DesignPatterns (Šiame kataloge rasite antrosios užduoties paveikslėlį)
